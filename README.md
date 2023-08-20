@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DarkAngel404
 - 👀 I’m interested in cybersecurity
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on Minecraft Pi Reborn
+- 🌱 I’m currently learning other programming languages
+- 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me : by <a href=mailto:shadowangel404@pm.me>mail</a> or with <a href="https://www.reddit.com/user/TheRunaway_">Reddit</a>
 
 <!---
