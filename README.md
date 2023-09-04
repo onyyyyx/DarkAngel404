@@ -1,10 +1,2 @@
-- 👋 Hi, I’m @DarkAngel404
-- 👀 I’m interested in cybersecurity
-- 🌱 I’m currently learning other programming languages
-- 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me : by <a href=mailto:shadowangel404@pm.me>mail</a> or with <a href="https://www.reddit.com/user/TheRunaway_">Reddit</a>
-
-<!---
-DarkAngel404/DarkAngel404 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&size=50&duration=1500&pause=1000&color=C30000&width=435&lines=Welcome+on+my+profile+!)](https://git.io/typing-svg)
+[![Keqing ❤️](https://zupimages.net/up/23/36/olcd.jpeg)]
