@@ -1,2 +1,2 @@
 Hi !
-Find me on [Discord](discord.gg) : onyx.sio2
+Find me on [Discord](https://discord.gg) : onyx.sio2
